@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(https://images.alphacoders.com/457/457871.jpg) ;
+    color: #FFFFFF;
+}
+
+.titulo {
+    width: 80%;
+    height: 80%;
+    left: 10%;
+    color: blue;
+    background-color: aliceblue;
+    margin: auto;
+}
+
+.titulo .info{
+    color: black;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sinopsis{
+    width: 80%;
+    height: 80%;
+    left: 10%;
+    color: red;
+    background-color: aliceblue;
+    margin: 2% auto;
+}
+
+.sinopsis .info{
+    color: black;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.trailer{
+    width: 67%;
+    height: 49%;
+    left: 40%;
+    color: blue;
+    background-color: aliceblue;
+    margin: 2% auto;
+}
+
+
+
